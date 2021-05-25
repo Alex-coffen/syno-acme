@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # path of this script
-BASE_ROOT=/volumeUSB2/usbshare2-2/Sync/cert
-BASE_NEW=/volumeUSB2/usbshare2-2/Sync/cert/new
+BASE_ROOT=/volume2/homes/biao.zhong/Sync/alexzhong.top
+BASE_NEW=/volume2/homes/biao.zhong/Sync/alexzhong.top/new
 # date time
 DATE_TIME=`date +%Y%m%d%H%M%S`
 
